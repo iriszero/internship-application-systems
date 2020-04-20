@@ -1,6 +1,6 @@
-// C program to Implement Ping 
+/* Origianl code from https://www.geeksforgeeks.org/ping-in-c/ */
 
-// run as sudo ./ping <hostname> 
+// C program to Implement Ping > 
 
 #include <stdio.h> 
 #include <sys/types.h> 
