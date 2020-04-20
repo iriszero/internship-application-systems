@@ -7,3 +7,6 @@ $ make
 ```
 $ sudo ./ping cloudflare.com
 ```
+
+# Acknowledgement
+The code was adopted from https://www.geeksforgeeks.org/ping-in-c/.
