@@ -1,9 +1,9 @@
 # How to Build
 ```
-make
+$ make
 ```
 
 # How to Execute
 ```
-sudo ./ping cloudflare.com
+$ sudo ./ping cloudflare.com
 ```
